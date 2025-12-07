@@ -1,0 +1,2 @@
+# deploy_Practical_backend
+PracticalのbackendをAzureでデプロイするためのリポジトリ
